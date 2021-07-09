@@ -1,4 +1,19 @@
 ### Hi there 👋
+My name is Anas. Welcome to my profile.
+
+<!--
+ELMESKINEAnas/ELMESKINEAnas is a :sparkles: special :sparkles: repository because its README.md (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+-->
+
+
+- :telescope: I’m currently working on Javascript and PHP
+- :seedling: I’m currently learning everything I can find
+- :mailbox: How to reach me: [Twitter](https://twitter.com/anas_elm_), [LinkedIn](https://www.linkedin.com/in/anas-el-meskine-607924186/)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ELMESKINEAnas&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ELMESKINEAnas&layout=compact)](https://github.com/ELMESKINEAnas)
 
 <!--
 **ELMESKINEAnas/ELMESKINEAnas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
