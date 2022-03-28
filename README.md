@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 
 
-- :telescope: I’m currently working on HTML, CSS, Javascript, Vue js and PHP
+- :telescope: Mern Stack Developer
 - :seedling: I’m currently learning everything I can find
 - :mailbox: How to reach me: [Twitter](https://twitter.com/anas_elm_), [LinkedIn](https://www.linkedin.com/in/anas-el-meskine-607924186/)
 
