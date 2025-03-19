@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - :seedling: I’m currently learning everything about Javascript
 - :mailbox: How to reach me: [Twitter](https://twitter.com/anas_elm_), [LinkedIn](https://www.linkedin.com/in/anas-el-meskine-607924186/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ELMESKINEAnas&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ELMESKINEAnas&layout=compact)](https://github.com/ELMESKINEAnas)
 
 <!--
